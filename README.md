@@ -4,6 +4,7 @@ Verity doesn't just exist in Minecraft, he lives on your desktop now! Interact w
 Verity is supported on Windows 7 and up!
 
 Features list/usage:
+
 . Media Player - Ask "play SONGNAME by ARTIST", uses Youtube to play music
 
 . Emotion engine - Triggered by specific words, with sprites to match emotion (Trigger words: Happy, Down, Angry)
